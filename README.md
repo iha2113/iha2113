@@ -1,16 +1,50 @@
-## Hi there 👋
+👋 Merhaba, ben İsmail (iha2113)
 
-<!--
-**iha2113/iha2113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Siber Güvenlik Araştırmacısı | Yönetim Bilişim Sistemleri Öğrencisi
 
-Here are some ideas to get you started:
+Ben İsmail Karaçal. Teknolojiye, bilgi güvenliğine ve sürekli öğrenmeye tutkuyla bağlıyım.
+Kariyer hedefim, siber güvenlik alanında en iyilerden biri olmak ve bu alanda uzmanlaşarak hem bireysel hem de kurumsal güvenliğe katkı sağlamak.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Hakkımda
+
+🎓 Yönetim Bilişim Sistemleri öğrencisiyim.
+
+🛡️ Siber güvenlik alanında kendimi geliştiriyorum.
+
+🎯 Özellikle web güvenliği, ağ güvenliği, zafiyet analizi ve exploit geliştirme konularına odaklanıyorum.
+
+⚡ Boş zamanlarımda Hack The Box ve CTF platformlarında pratik yapıyorum.
+
+🌙 Çalışma tarzım: “Gece güvenlik, gündüz okul” 💡
+
+🛠️ Kullandığım Araçlar & Teknolojiler
+
+Sızma Testi: Metasploit, Burp Suite, SQLMap
+
+Ağ Güvenliği: Nmap, Wireshark
+
+Web Güvenliği: ffuf, gobuster, dirb
+
+İşletim Sistemleri: Kali Linux, Parrot OS
+
+Diğer: Git, GitHub
+
+📌 Hedeflerim
+
+✅ Siber güvenlik alanında uzmanlaşmak
+
+✅ CTF yarışmalarında dereceler kazanmak
+
+✅ Açık kaynak güvenlik projelerine katkı sağlamak
+
+✅ Offensive Security sertifikaları elde etmek (OSCP vs.)
+
+📊 GitHub İstatistiklerim
+
+🌐 Bana Ulaşın
+
+✉️ E-posta
+
+💼 LinkedIn
+
+📂 GitHub Projelerim
